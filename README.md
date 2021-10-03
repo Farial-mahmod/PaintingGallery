@@ -1,6 +1,6 @@
-#An online gallery for showcasing paintings of my nieces.
+# An online gallery for showcasing paintings of my nieces.
 
-##Features:
+## Features:
 1. Cross-browser tested
 2. Responsive
 3. Fast
